@@ -1,0 +1,22 @@
+/* body {
+    background: url(../../assets/login.png);
+    height: 100rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 130%;
+  
+  } */
+
+.mainBlock{
+    border-radius: 2px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: rgb(5, 5, 5);
+    padding: 20px;
+    width: 600px;
+    max-width: 350px;
+    margin: 80px auto;
+    display: table;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}

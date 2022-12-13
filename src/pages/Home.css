@@ -1,0 +1,66 @@
+body{
+    height : 100%;
+}
+
+.mainBlock2{
+    border-radius: 1px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 18px;
+    /* background-color: #40d1d1; */
+    background-color: #f1d9d9;
+    width: 500px;
+    max-width: 350px;
+    display: table;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.2), 0 2px 18px 0 rgba(0,0,0,0.19);
+}
+
+.mainBlock3{
+    border-radius: 1px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 18px;
+    /* background-color: #f7d931; */
+    background-color: #c2eeee;
+    width: 500px;
+    max-width: 400px;
+    display: table;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.2), 0 2px 18px 0 rgba(0,0,0,0.19);
+}
+
+.mainBlock4{
+    border-radius: 1px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 18px;
+    /* background-color: #9fa4ec; */
+    background-color: #e7e6a1;
+    width: 500px;
+    max-width: 450px;
+    display: table;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.2), 0 2px 18px 0 rgba(0,0,0,0.19);
+}
+
+.mainBlock5{
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 30px;
+    background-color: #90daf7;
+    width: 700px;
+    max-width: 600px;
+    display: table;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.2), 0 2px 18px 0 rgba(0,0,0,0.19);
+}
+
+.Block{
+    border-radius: 1px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 5px;
+    background-color: #fcfafa;
+    width: 700px;
+    max-width: 60px;
+    display: table;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.2), 0 2px 18px 0 rgba(0,0,0,0.19);
+}

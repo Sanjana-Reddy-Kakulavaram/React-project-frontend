@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+#root, body, html {
+  height : 100%;
+  margin: 0;
+}
+
+/* .bg1{
+  background: url(./assets/bg.png);
+  height: 100rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 170%;
+} */
+
+/* body {
+  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+  background: url(./assets/4.jpeg);
+  height: 100rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 130%;
+
+
+} */

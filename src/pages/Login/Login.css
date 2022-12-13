@@ -1,0 +1,72 @@
+/* body {
+    background: url(../../assets/bg.png);
+    height: 100rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 170%;
+  
+  } */
+
+.mainBlock{
+    border-radius: 1px;
+    box-sizing: border-box;
+    text-align: center;
+    /* background-color: var(--color-red-300); */
+    background-color: rgb(252, 249, 249);
+    padding: 18px;
+    width: 400px;
+    max-width: 350px;
+    margin: 80px auto;
+    display: table;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.2), 0 2px 18px 0 rgba(0,0,0,0.19);
+
+}
+
+.regField{
+    width: 100%;
+    background-color: #f7f7f7;
+    color: #000;
+    border: 1px solid #ddd;
+    padding: 3px;
+    box-sizing:  border-box;
+    font-size: 15px;
+}
+
+.submitBtn{
+    width: 100%;
+    background: #0e29be;
+    border: 0;
+    color: whitesmoke;
+    padding: 5px;
+    margin: 10px 0 0 0;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+
+.button{
+    width: 100%;
+    background: #123e9c;
+    border: 0;
+    color: #fff;
+    padding: 5px;
+    margin: 10px 0 0 0;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.underLine{
+    text-align: center;
+    margin: 7px 0 0 0;
+    display: block;
+
+}
+
+.linkBtn{
+    border: 0;
+    background-color: unset;
+    text-decoration: underline;
+    color: rgb(7, 87, 60);
+    padding: 0;
+    margin: 0;
+}
